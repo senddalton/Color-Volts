@@ -27,3 +27,8 @@
     height: auto;
 }
 
+.nombre-title{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
